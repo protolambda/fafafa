@@ -30,6 +30,9 @@ See repository files for config files for each client.
 - Chain Explorers: None
 - Status Dashboard: [fafafa.eth2.wtf](https://fafafa.eth2.wtf)
 
+**Nimbus**: you need this PR to be merged into your branch for the config to work:
+ https://github.com/status-im/nim-beacon-chain/pull/1453
+
 ## Eth2stats
 
 Something like this, replace client type, display name, beacon API and metrics port numbers:
