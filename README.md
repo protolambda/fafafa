@@ -27,3 +27,19 @@ See repository files for config files for each client.
   - `enr:-Ku4QDEawcgXZkMQzasM55ki8dgcscN_iEiePQYdUh3JZQT2JEyZogsU9AfibVSaSxkW81pDlAqrqs0YoTEjGhZUX4YBh2F0dG5ldHOIAAAAAAAAAACEZXRoMpCgyVg2APr6-v__________gmlkgnY0gmlwhCLqwe6Jc2VjcDI1NmsxoQK8R63gDqak_oNJ6e4PkICnAwBiLVBhWE800oNHYRnRI4N1ZHCCIyg`
 - Chain Explorers: None
 - Status Dashboard: [fafafa.eth2.wtf](https://fafafa.eth2.wtf)
+
+## Eth2stats
+
+Something like this, replace client type, display name, beacon API and metrics port numbers:
+```shell script
+eth2stats-client run \
+--eth2stats.node-name="Nimbus heya" \ 
+--data.folder=/data \
+--eth2stats.addr=grpc.fafafa.eth2.wtf:8080 \
+--eth2stats.tls=false \
+--beacon.type=nimbus \
+--beacon.addr=http://localhost:4000 \ 
+--beacon.metrics-addr=http://localhost:8080/metrics
+```
+
+Available as docker image: `alethio/eth2stats-client:latest`
