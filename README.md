@@ -4,8 +4,10 @@ This is a small Eth2 dev testnet, with permissioned validator access, to debug P
 
 ## Validating
 
+**IMPORTANT: The deposit contract is permissioned with a token system.**
+
 If you like to run a validator, ping @protolambda,
- give your Goerli testnet Ath1 address and ask for deposit tokens.
+ give your Goerli testnet Eth1 address and ask for deposit tokens.
 
 ## Configuration
 
