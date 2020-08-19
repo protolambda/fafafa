@@ -26,7 +26,7 @@ See repository files for config files for each client.
 - `MIN_GENESIS_ACTIVE_VALIDATOR_COUNT`: `512`
 - `GENESIS_DELAY`: `900`
 - Bootnode ENR(s):
-  - `enr:-Ku4QDEawcgXZkMQzasM55ki8dgcscN_iEiePQYdUh3JZQT2JEyZogsU9AfibVSaSxkW81pDlAqrqs0YoTEjGhZUX4YBh2F0dG5ldHOIAAAAAAAAAACEZXRoMpCgyVg2APr6-v__________gmlkgnY0gmlwhCLqwe6Jc2VjcDI1NmsxoQK8R63gDqak_oNJ6e4PkICnAwBiLVBhWE800oNHYRnRI4N1ZHCCIyg`
+  - `enr:-Ku4QAUaryojeaQ0tSIwWmOJLlMDFGAjG-igBqcXajWQ-7wXYuugzMGEI4C_XSvn-z2HFIaFWTd6-haNxQ1RhvMU4G4Bh2F0dG5ldHOIAAAAAAAAAACEZXRoMpDPW7HzAfr6-v__________gmlkgnY0gmlwhCLqwe6Jc2VjcDI1NmsxoQJlEssp5QkqnxLwxcpM4vWyOEs8ufEg6Guv_Imwy4eiwYN1ZHCCIyg`
 - Chain Explorers: None
 - Status Dashboard: [fafafa.eth2.wtf](https://fafafa.eth2.wtf)
 
