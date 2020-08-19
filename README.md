@@ -14,11 +14,11 @@ If you like to run a validator, ping @protolambda,
 See repository files for config files for each client.
 
 - Spec version: `v0.12.2`
-- Genesis Time: `?` (`2020-08-19T??:??:??Z`)
+- Genesis Time: `1597835294` (`2020-08-19T11:08:14Z`)
 - Genesis Fork Version: `0x01fafafa`
-- Fork Digest: ``
-- Initial State Root: ``
-- Genesis Block Root: ``
+- Fork Digest: node: `0x340cec0f`, bootnode: `0xcf5bb1f3` 
+- Initial State Root: `0x96826f5730654bba59663e2eda3168432980624e722de3c435cea1fc67dbb68c`
+- Genesis Block Root: `0x1ef0e7663461571447a56bfefdd76f83da0b2d6db1250fed0baa9e6fe74c90e3`
 - Deposit Contract: [`0x1dd8A52b4Eb0BaA6bB6aF57c36AACe8727BdfccB`](https://goerli.etherscan.io/address/0x1dd8A52b4Eb0BaA6bB6aF57c36AACe8727BdfccB) (_Note_ this is a modified deposit contract with access control features.)
 - Deposit Contract Deploy Block Hash: `0xc0986743deb660aa0cff7a21fc0aeeaf16c5143d1f3dda5a3dadd0c40aac549f`
 - Deposit Contract Deploy Block Number: `3251570`
