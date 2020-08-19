@@ -14,16 +14,16 @@ If you like to run a validator, ping @protolambda,
 See repository files for config files for each client.
 
 - Spec version: `v0.12.2`
-- Genesis Time: `1596710871` (`2020-08-06T10:47:51Z`)
-- Genesis Fork Version: `0x00fafafa`
-- Fork Digest: `0xa3778fcd`
-- Initial State Root: `0xa2b1679d94e730dc19bc3e5645d760b2fdffed6036ce2aa875117e766de45764`
-- Genesis Block Root: `0xf197f88e0b2c9d9dd7ea2122c07d1eb0939cbe424117de50c8d851d3564e8305`
-- Deposit Contract: [`0xc15Bf10aAfd93360AC77Ce3bfE5272f854017dF7`](https://goerli.etherscan.io/address/0xc15bf10aafd93360ac77ce3bfe5272f854017df7) (_Note_ this is a modified deposit contract with access control features.)
-- Deposit Contract Deploy Block Hash: `0x76e947b593081b2fa2621053782bf15f587bb6ae9ab48c43b5314957ff924f9d`
-- Deposit Contract Deploy Block Number: `3174222`
+- Genesis Time: `?` (`2020-08-19T??:??:??Z`)
+- Genesis Fork Version: `0x01fafafa`
+- Fork Digest: ``
+- Initial State Root: ``
+- Genesis Block Root: ``
+- Deposit Contract: [`0x1dd8A52b4Eb0BaA6bB6aF57c36AACe8727BdfccB`](https://goerli.etherscan.io/address/0x1dd8A52b4Eb0BaA6bB6aF57c36AACe8727BdfccB) (_Note_ this is a modified deposit contract with access control features.)
+- Deposit Contract Deploy Block Hash: `0xc0986743deb660aa0cff7a21fc0aeeaf16c5143d1f3dda5a3dadd0c40aac549f`
+- Deposit Contract Deploy Block Number: `3251570`
 - `MIN_GENESIS_TIME`: `1578009600`
-- `MIN_GENESIS_ACTIVE_VALIDATOR_COUNT`: `520`
+- `MIN_GENESIS_ACTIVE_VALIDATOR_COUNT`: `512`
 - `GENESIS_DELAY`: `900`
 - Bootnode ENR(s):
   - `enr:-Ku4QDEawcgXZkMQzasM55ki8dgcscN_iEiePQYdUh3JZQT2JEyZogsU9AfibVSaSxkW81pDlAqrqs0YoTEjGhZUX4YBh2F0dG5ldHOIAAAAAAAAAACEZXRoMpCgyVg2APr6-v__________gmlkgnY0gmlwhCLqwe6Jc2VjcDI1NmsxoQK8R63gDqak_oNJ6e4PkICnAwBiLVBhWE800oNHYRnRI4N1ZHCCIyg`
